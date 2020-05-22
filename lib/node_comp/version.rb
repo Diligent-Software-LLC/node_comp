@@ -4,7 +4,7 @@
 # NodeComposition.
 # @class_description
 #   A doubly-linked Node data structure library's composition. Composites the
-#   Interface and Implementation..
+#   Interface and Implementation.
 class NodeComposition
-  VERSION = '0.1.0'.freeze()
+  VERSION = '1.0.0'.freeze()
 end

@@ -44,7 +44,7 @@ available at $1, $2, $4, $8, and $16. Greatly appreciated.}
   spec.add_development_dependency 'simplecov', '~> 0'
 
   # Gem specific runtime dependencies.
-  spec.add_runtime_dependency 'node_int', '~> 2'
-  spec.add_runtime_dependency 'node_impl', '~> 3'
+  spec.add_runtime_dependency 'node_int', '~> 3'
+  spec.add_runtime_dependency 'node_impl', '~> 4'
 
 end
