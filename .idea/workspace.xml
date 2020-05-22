@@ -26,10 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc8e2f81-419a-46bc-b4ff-67d27ae4074a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/node_comp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/node_comp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_comp.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_comp.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="306" />
+    <option name="myElementSize" value="359" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OPEN_IN_BROWSER" value="true" />
@@ -133,7 +130,7 @@
       <workItem from="1589914337827" duration="1544000" />
       <workItem from="1589976446689" duration="689000" />
       <workItem from="1589987021733" duration="865000" />
-      <workItem from="1590170449403" duration="1174000" />
+      <workItem from="1590170449403" duration="1512000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md.">
       <created>1589901379685</created>
@@ -163,10 +160,17 @@
       <option name="project" value="LOCAL" />
       <updated>1590170947032</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Development Complete&#10;&#10;Added data_library, node_error, and diagram development dependencies.">
+      <created>1590171859534</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590171859534</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Node Subsystem:{No Subsystem} Component: Composition Sprints: 9 State: {Development}" />
+        <option name="defaultSearch" value="project: Node Subsystem:{No Subsystem} Component: Composition Sprints: 9 State: {Prepare Deployment}" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -192,17 +196,18 @@
     <MESSAGE value="Development Complete&#10;&#10;Added test coverage." />
     <MESSAGE value="Prepare Deployment&#10;&#10;Deleted Travis CI deployment settings. Updated Changelog.md." />
     <MESSAGE value="Setup Complete&#10;&#10;Bumped Major Version. Updated runtime dependencies." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Bumped Major Version. Updated runtime dependencies." />
+    <MESSAGE value="Development Complete&#10;&#10;Added data_library, node_error, and diagram development dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;Added data_library, node_error, and diagram development dependencies." />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="175" key="#Servers" timestamp="1589830738123">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="433" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1589830738123" />
-    <state x="51" y="46" width="1553" height="908" key="CommitChangelistDialog2" timestamp="1590170946713">
+    <state x="51" y="46" width="1553" height="908" key="CommitChangelistDialog2" timestamp="1590171859243">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="51" y="46" width="1553" height="908" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1590170946713" />
+    <state x="51" y="46" width="1553" height="908" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1590171859243" />
     <state width="1549" height="269" key="GridCell.Tab.0.bottom" timestamp="1590171682972">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -231,10 +236,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="506" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1589988012460" />
-    <state x="496" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1590170973686">
+    <state x="496" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1590171915408">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="496" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1590170973686" />
+    <state x="496" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1590171915408" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/node_comp@NodeCompositionTest.rcov" NAME="NodeCompositionTest Coverage Results" MODIFIED="1590171677902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="node_comp" />

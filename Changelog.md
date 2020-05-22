@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.0.0, 2020-05-22
+
+### Added
+
+- data_library, node_error, and diagram development dependencies.
+
+### Edited
+
+- Updated runtime dependencies.
+
+### Fixed
+
 ## v0.1.0, 2020-05-20
 
 ### Added
